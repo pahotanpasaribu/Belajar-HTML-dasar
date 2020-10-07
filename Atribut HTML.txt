@@ -1,22 +1,12 @@
-Atribut ini berfungsi memberikan informasi tambahan pada sebuah elemen. 
-Atribut dituliskan pada tag pembuka sebuah elemen setelah nama dari elemennya tersebut ditulis. 
-Contohnya:
+- Atribut ini berfungsi memberikan informasi tambahan pada sebuah elemen. 
+- Atribut dituliskan pada tag pembuka sebuah elemen setelah nama dari elemennya tersebut ditulis. 
+- Contohnya:
+                <p lang="id">Kota metropolitan terbesar di Provinsi Jawa Barat, sekaligus menjadi ibu kota provinsi tersebut.</p>
+- Atribut pada elemen juga dapat dituliskan lebih dari satu.
+- Contohnya:
+                <p lang="id" translate="no">Kota metropolitan terbesar di Provinsi Jawa Barat, sekaligus menjadi ibu kota provinsi tersebut.</p>
 
-<p lang="id">Kota metropolitan terbesar di Provinsi Jawa Barat, sekaligus menjadi ibu kota provinsi tersebut.</p>
-
-Atribut pada elemen juga dapat dituliskan lebih dari satu. 
-Kita bisa menuliskan kembali seluruh struktur atribut di samping dari atribut yang sudah ada. 
-Contohnya pada elemen paragraf di atas, kita akan memberikan sebuah atribut translate, 
-sehingga penulisannya menjadi seperti ini:
-
-<p lang="id" translate="no">Kota metropolitan terbesar di Provinsi Jawa Barat, sekaligus menjadi ibu kota provinsi tersebut.</p>
-
-Dengan menambahkan atribut translate dan memberikan nilai “no” pada elemen paragraf tersebut, 
-maka konten dari elemen yang dimaksud tidak akan diterjemahkan oleh layanan 
-sistem translate otomatis seperti Google Translate.
-
-berikut daftar atribut yang bisa kita gunakan di seluruh elemen HTML.
-
+- daftar atribut yang bisa kita gunakan di seluruh elemen HTML.
 
 accesskey       : Menentukan tombol shortcut untuk mengaktifkan/memfokuskan pada sebuah element.
 class           : Menentukan satu atau lebih classname untuk sebuah elemen.
