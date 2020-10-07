@@ -1,0 +1,36 @@
+Website serupa dengan berkas dokumen yang ada seperti koran, majalah, atau buku. Serupa dalam hal memiliki 
+struktur konten layaknya dokumen sehari-hari yang kita baca. Pada sebuah majalah terdapat judul, gambar yang 
+ditampilkan dan teks dalam bentuk paragraf. Terkadang, jika konten tersebut panjang terdapat sub-judul untuk
+memisahkannya menjadi beberapa bagian.
+
+Judul dan subjudul pada sebuah dokumen menggambarkan suatu hierarki dari informasi. 
+Misalnya, judul dengan ukuran besar merupakan judul utama dalam sebuah konten. 
+Kemudian diikuti dengan judul kecil di bawahnya yang menjelaskan informasi dengan lebih mendetail lagi.
+
+Berkas HTML dasarnya memiliki struktur yang nampak seperti ini:
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Judul Halaman</title>
+    </head>
+    <body>
+        <h1>Heading Utama</h1>
+        <p>Sebuah Paragraph.</p>
+    </body>
+</html>
+
+Kita dapat melihat bahwa struktur dasar HTML dituliskan dari beberapa elemen. 
+Pada setiap elemen HTML terdapat dua tag, 
+yaitu pembuka tag <> dan penutup tag </>. 
+
+
+Di antara tag pembuka dan penutup sebuah elemen, kita dapat meletakkan sebuah konten. 
+Konten dapat berupa teks ataupun sebuah elemen HTML lain. Contohnya, elemen <html> memiliki konten yaitu elemen <head> 
+dan juga elemen <body>. Lalu, elemen <head> memiliki konten berupa elemen <title> yang di dalamnya memiliki konten berupa 
+teks dari judul halaman yang ditampilkan. Begitu pula dengan elemen lainnya, sehingga hirarki elemen HTML nampak seperti ini.
+
+
+
+
+
