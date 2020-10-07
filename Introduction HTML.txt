@@ -1,0 +1,4 @@
+Seperti yang sudah kita ketahui, HTML berperan sebagai struktur untuk membangun sebuah halaman website. Dan pada modul ini kita akan mencoba menuliskan struktur HTML, siap? Pada akhir modul, kita akan membuat halaman website seperti gambar berikut:
+
+201912031614177fb1d2b986df9d5d760fe845869eee98.jpeg
+
